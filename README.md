@@ -1,11 +1,11 @@
 # mongodbClusterAWS
 
 
-## prereqs 
-### setup aws account 
 
-### design mongo db arch 
+- [ ] setup aws account 
 
-### setup terraform 
+- [ ] design mongo db arch 
 
-### setup ansible 
+- [ ] setup terraform 
+
+- [ ] setup ansible 
