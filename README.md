@@ -1,5 +1,4 @@
-# mongodbClusterAWS
-
+# Mongo DB Cluster on AWS using Terraform & Ansible 
 
 
 - [ ] setup aws account 
